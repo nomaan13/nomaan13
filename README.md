@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **k.nomaan666@gmail.com   😎**
 
-- ⚡ Fun fact **The difference between jam and jelly is that jam is made with mashed-up fruit while jelly is made with fruit juice😁😉**
+- ⚡ Fun fact **Before was was was was was is😁😉**
 
 
 
