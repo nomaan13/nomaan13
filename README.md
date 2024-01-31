@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about ** Java , Advance Java , Spring , Spring Boot , Hibernate , HTML , CSS , Bootstrap , JavaScript**
+- 💬 Ask me about ** Java , Advance Java , Spring , Spring Boot , Hibernate , HTML , CSS , Bootstrap , JavaScript ,MySQL**
 
 - 📫 How to reach me **k.nomaan666@gmail.com   😎**
 
