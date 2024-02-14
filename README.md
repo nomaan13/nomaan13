@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **k.nomaan666@gmail.com   😎**
 
-- ⚡ Fun fact **Before was was was was was is😁😉**
+- ⚡ Fun fact ** Before was was was was was is😁😉**
 
 
 
