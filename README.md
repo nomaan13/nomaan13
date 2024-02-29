@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://naisannovel.me/)
-<h1 align="center">Hi-ya 👋, I'm nomaan khan</h1>
+<h1 align="center">Hi-ya 👋, I'm Nomaan khan</h1>
 <h3 align="center"> Full-Stack Java Developer </h3>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomaan13&label=Profile%20views&color=0e75b6&style=flat" alt="nomaan13" /> </p>
 <img align="right" alt="Coding" width="350" src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg">
