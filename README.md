@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="350" src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg">
 <p align="left"> <a href="https://twitter.com/myselfkhann" target="blank"><img src="https://img.shields.io/twitter/follow/myselfkhann?logo=twitter&style=for-the-badge" alt="myselfkhann" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning ** Java **
 
 - 💬 Ask me about ** Java , Advance Java , Spring , Spring-Boot , Hibernate , HTML , CSS , Bootstrap , JavaScript ,MySQL/SQL**
 
