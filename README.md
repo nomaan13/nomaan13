@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** Java , Advance Java , Spring , Spring-Boot , Hibernate , HTML , CSS , Bootstrap , JavaScript ,MySQL,SQL**
 
-- 📫 How to reach me **k.nomaan666@gmail.com   😎**
+- 📫 How to reach me **k.nomaan666@gmail.com😎**
 
 - ⚡ Fun fact ** Before was was was was was is😁😉**
 
